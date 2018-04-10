@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image: url(img/background.jpg);
+	background-size: cover;
+	}
+#lg{
+	width: 520px;
+	height: 260px;
+	background-color: rgba(255,255,255,1.00);
+	position: relative;
+	text-align: center;
+	margin-left: 33%;
+	margin-top: 10%;
+	}
+#lgput{
+	font-size: 18pt;
+	margin-top: 40px;
+	width: 250px;
+	height: 50px;
+	margin-left: 135px;
+	}
+#button{
+	font-size: 24pt;
+	}
+#reg{
+	bottom: 10px;
+	right: 5px;
+	position: absolute;
+	}
+#lgtitle{
+	background-color: #4FAF44;
+	width: 520px;
+	height: 40px;
+	font-size: 24pt;
+	text-align: center;
+	color: rgba(243,243,243,1.00);
+	padding-top: 5px;
+	}
+#regput{
+	font-size: 16pt;
+	margin-top: 20px;
+	width: 300px;
+	height: 50px;
+	margin-left: 130px;
+	}
+#ldtitle{
+	background-color: #4FAF44;
+	width: 520px;
+	height: 40px;
+	font-size: 24pt;
+	text-align: center;
+	color: rgba(243,243,243,1.00);
+	padding-top: 5px;
+	margin-left: 33%;
+	margin-top: 20%;
+	}
+#left{
+	width: 200px;
+	height: auto;
+	font-size: 22pt;
+	position: relative;
+	float: left;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 1px 2px;
+	border-color: rgba(50,50,50,1.00);
+	}
+#main{
+	clear: right;
+	}
+a{
+	text-decoration: none;	
+	}
+#top{
+	width:559px;
+	height: 250px;
+	margin: 0,auto;
+	background-color: #4FAF44;
+	position: relative;
+	}
+ul{
+	list-style-type: none;
+	padding-left: 1px;
+	margin-top: 70px;
+	}
+#hplgi{
+	font-size: 16pt;
+	right: 3px;
+	top: 49px;
+	position: absolute;
+	}
+tr{
+	border-color: rgba(0,0,0,1.00);
+	border-spacing: 2px 2px;
+	}
